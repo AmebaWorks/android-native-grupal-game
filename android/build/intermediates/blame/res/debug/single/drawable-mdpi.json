@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\aritz\\Documents\\GDX_Sandbox\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\aritz\\Documents\\GDX_Sandbox\\android\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aritz\\Documents\\GDX_First_Game\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\aritz\\Documents\\GDX_First_Game\\android\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aritz\\Documents\\MobileGroupGame\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\aritz\\Documents\\MobileGroupGame\\android\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
